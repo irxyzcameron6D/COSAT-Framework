@@ -1,0 +1,1 @@
+This folder will contain COSAT Mathematica notebooks and simulation data.
