@@ -1,0 +1,24 @@
+# --- Microsoft Office ---
+# Ignore temporary Word/Office files
+~$*.docx
+~$*.doc
+*.tmp
+
+# --- Mathematica ---
+# Ignore Mathematica's local caches and backup files
+.Wolfram/
+*.nb.bak
+*.nb~
+
+# --- System Files ---
+# Ignore Windows and Mac metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Common Build/Junk ---
+*.log
+*.bak
